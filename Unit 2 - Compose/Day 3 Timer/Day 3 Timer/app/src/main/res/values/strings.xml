@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ClockExampleInClass</string>
+    <string name="update_time_button">Update Time</string>
+</resources>

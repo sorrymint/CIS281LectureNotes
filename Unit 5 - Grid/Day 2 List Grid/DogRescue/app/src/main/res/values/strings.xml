@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DogRescue</string>
+    <string name="labrador">Labrador</string>
+    <string name="german_shepherd">German Shepherd</string>
+    <string name="beagle">Beagle</string>
+    <string name="poodle">Poodle</string>
+</resources>

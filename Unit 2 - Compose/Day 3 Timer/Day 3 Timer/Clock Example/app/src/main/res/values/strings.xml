@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ClockExample</string>
+    <string name="update_time">Update Time</string>
+</resources>

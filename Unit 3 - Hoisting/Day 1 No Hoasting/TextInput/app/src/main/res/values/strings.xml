@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TextInputExample</string>
+    <string name="bill_amount">Bill Amount</string>
+</resources>

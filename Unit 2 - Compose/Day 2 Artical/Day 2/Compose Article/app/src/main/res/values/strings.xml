@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Compose Article</string>
+
+    <!-- Compose Article Screen -->
+    <string name="title_jetpack_compose_tutorial">Simple Page</string>
+    <string name="compose_short_desc">Phasellus ut dapibus libero. Proin quis orci turpis. In facilisis mi id ex rutrum molestie. Aliquam mollis tempor turpis in efficitur. Vivamus tempus sem vel mollis tincidunt. </string>
+    <string name="compose_long_desc">Nunc a dignissim nulla. Proin iaculis nulla non odio sagittis, id consectetur urna cursus. Proin lorem ante, hendrerit eget justo in, semper dignissim velit. Integer malesuada, elit sed dignissim laoreet, nisl elit interdum tortor, sed tincidunt enim nunc eget velit. Nulla enim elit, iaculis eu velit ut, dignissim blandit ligula. Quisque nibh mauris, eleifend sed egestas et, interdum et mauris. Quisque bibendum dolor at lectus posuere vestibulum. Donec vel condimentum ante. Duis imperdiet nisi sit amet ligula commodo lobortis. Nunc sem mauris, suscipit ultricies convallis at, convallis nec arcu. Cras ac dolor ligula. Suspendisse condimentum ligula in massa molestie sodales. Praesent imperdiet nisi nec dictum suscipit. </string>
+</resources>

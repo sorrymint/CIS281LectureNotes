@@ -1,0 +1,14 @@
+Got to github page: https://github.com/google-developer-training/basic-android-kotlin-compose-training-affirmations/tree/starter
+
+git clone [url]
+cd into projet
+
+//to list all branches
+git branch -a 
+
+//check out starter branch
+git checkout starter
+
+//check that you are in the right branch
+git branch
+
