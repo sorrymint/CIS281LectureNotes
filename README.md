@@ -1,6 +1,8 @@
-# Getting Started
+# CIS 281 Mobile Development
 
-This document is a reference document and will be updated regularly with new information.
+This repo serves as notes that would be covered during the second mobile class.
+This repo is not complete and has a lot of missing parts of projects.
+This repo will be archived at the end of fall term 2025. 
 
 ## Software need
 
